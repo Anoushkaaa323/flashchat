@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646987958298",
+    "project_id": "flashchatt-bea9c",
+    "storage_bucket": "flashchatt-bea9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646987958298:android:5e479311c041164ead69a3",
+        "android_client_info": {
+          "package_name": "com.example.flashchatt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6NsFEWfhJGi3C-A_GFCWvKFwCeOdi6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
